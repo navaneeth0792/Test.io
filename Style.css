@@ -1,0 +1,43 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #b6a2a2;
+  color: #080808;
+  background-image: url('https://www.golden-hippo.com/assets/logo.6877d711.webp');
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+header {
+  background: #080808;
+  color: rgb(224, 214, 214);
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 40px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: rgb(199, 103, 103);
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background: #1a0606;
+  color: #e2b41d;
+  text-align: center;
+  padding: 10px 0;
+}
+
+
